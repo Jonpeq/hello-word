@@ -1,2 +1,5 @@
 # hello-word
-Just another repository
+
+Hi, entity.
+
+I am a student.
